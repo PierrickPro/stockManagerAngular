@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "stockManagerFE"
+  "defaultProject": "stockManagerFE",
+  "cli": {
+    "analytics": false
+  }
 }
