@@ -5,6 +5,9 @@ The interface was built using [Bootstrap Crud Data Table](https://codepen.io/nai
 
 To run the app, run the following commands:
 
-1. `npm install -g @angular/cli@latest`
-2. `npm install`
-3. `ng serve`
+## Install Dependencies
+- `npm install -g @angular/cli@latest`
+- `npm install`
+
+## Run The App
+`ng serve`
